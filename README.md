@@ -1,2 +1,2 @@
-# mundodeni-os
+# mundodeninos
 Pagina creada para nisños
